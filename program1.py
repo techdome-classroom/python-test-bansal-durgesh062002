@@ -1,9 +1,6 @@
 class Solution(object):
     def isValid(self, s):
-    
-      def isValid(s: str) -> bool:
-    # Stack for left symbols
-    leftSymbols = []
+     leftSymbols = []
     # Loop for each character of the string
     for c in s:
         # If left symbol is encountered

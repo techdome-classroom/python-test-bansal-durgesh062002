@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         string  str = '(' , ')' ,'[' , ']', '{', '}';
+        
         pass
     
 

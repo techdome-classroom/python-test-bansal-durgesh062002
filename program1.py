@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        char a ="()"
+        char a ="(";
         pass
     
 

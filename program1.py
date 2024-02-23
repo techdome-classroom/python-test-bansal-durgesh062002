@@ -6,10 +6,8 @@ class Solution(object):
         """
         string  str = '(' , ')' ,'[' , ']', '{', '}';
         
-        if("==")
-        print "true"
-       else
-       print "false"
+       
+       
         pass
     
 

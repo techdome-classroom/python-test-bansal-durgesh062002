@@ -6,6 +6,7 @@ class Solution(object):
         """
         string  str = '(' , ')' ,'[' , ']', '{', '}';
         
+        if()
         pass
     
 

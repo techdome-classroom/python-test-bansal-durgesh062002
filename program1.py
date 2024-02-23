@@ -7,7 +7,7 @@ class Solution(object):
         string  str = '(' , ')' ,'[' , ']', '{', '}';
         
         if("==")
-        print true;
+        print "true"
 
         pass
     

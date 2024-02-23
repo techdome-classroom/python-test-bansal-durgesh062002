@@ -8,7 +8,8 @@ class Solution(object):
         
         if("==")
         print "true"
-
+       else
+       print "false"
         pass
     
 

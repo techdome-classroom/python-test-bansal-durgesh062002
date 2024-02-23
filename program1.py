@@ -1,9 +1,6 @@
 class Solution(object):
     def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+    
       def isValid(s: str) -> bool:
     # Stack for left symbols
     leftSymbols = []
